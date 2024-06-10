@@ -3,12 +3,21 @@ Hola! Los invito a revisar mis apuntes para el taller de reforzamiento en python
 
 El temario de mis apuntes son:
 •	Tipos de Datos y Variables
+
 •	Operadores
+
 •	Entrada de Datos y Comentarios
+
 •	Cadenas de Texto
+
 •	Listas
+
 •	Tuplas y Diccionarios
+
 •	Condicionales
+
 •	Bucles
+
 •	Funciones
+
 
